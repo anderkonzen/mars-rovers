@@ -64,6 +64,8 @@ $> ./run.sh challenge
 5 1 E
 ```
 
+You might need to change the file mode to be executable, ie., `chmod +x run.sh`, in order to run the script.
+
 **Note**: The first time you run one of the above, docker will download the image (ruby:2.4.0-alpine) in case you don't have it already.
 
 ## Toughts about the problem
