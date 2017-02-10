@@ -1,5 +1,7 @@
 # Mars Rovers Experiment
 
+[![Build Status](https://travis-ci.org/anderkonzen/mars-rovers.svg?branch=master)](https://travis-ci.org/anderkonzen/mars-rovers)
+
 This repository contains an implementation for the [Mars Rovers](https://github.com/BearchInc/code-challenge/blob/master/challenge2.md) challenge.
 
 ## How to run
