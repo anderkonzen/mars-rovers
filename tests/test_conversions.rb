@@ -1,4 +1,4 @@
-require 'minitest/autorun'
+require 'helper.rb'
 require 'coordinate.rb'
 require 'conversions.rb'
 

@@ -1,4 +1,4 @@
-require 'minitest/autorun'
+require 'helper.rb'
 require './lib/coordinate.rb'
 
 class TestCoordinate < Minitest::Test

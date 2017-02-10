@@ -1,6 +1,6 @@
 # Mars Rovers Experiment
 
-[![Build Status](https://travis-ci.org/anderkonzen/mars-rovers.svg?branch=master)](https://travis-ci.org/anderkonzen/mars-rovers)
+[![Build Status](https://travis-ci.org/anderkonzen/mars-rovers.svg?branch=master)](https://travis-ci.org/anderkonzen/mars-rovers) [![Code Climate](https://codeclimate.com/github/anderkonzen/mars-rovers/badges/gpa.svg)](https://codeclimate.com/github/anderkonzen/mars-rovers) [![Test Coverage](https://codeclimate.com/github/anderkonzen/mars-rovers/badges/coverage.svg)](https://codeclimate.com/github/anderkonzen/mars-rovers/coverage)
 
 This repository contains an implementation for the [Mars Rovers](https://github.com/BearchInc/code-challenge/blob/master/challenge2.md) challenge.
 

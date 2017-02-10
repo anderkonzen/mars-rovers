@@ -1,4 +1,4 @@
-require 'minitest/autorun'
+require 'helper.rb'
 require 'rover.rb'
 
 class TestRover < Minitest::Test

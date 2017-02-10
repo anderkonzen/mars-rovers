@@ -1,3 +1,5 @@
 language: ruby
 rvm:
  - 2.2
+after_script:
+ - CODECLIMATE_REPO_TOKEN=6f6563593c557f1aa13aeb9dc36f06133d986591e73661d3711c3bc3a9b00e78 bundle exec codeclimate-test-reporter
